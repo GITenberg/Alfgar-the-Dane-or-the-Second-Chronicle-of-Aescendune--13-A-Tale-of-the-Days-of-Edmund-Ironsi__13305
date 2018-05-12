@@ -1,0 +1,29 @@
+_repo: Alfgar-the-Dane-or-the-Second-Chronicle-of-Aescendune--13-A-Tale-of-the-Days-of-Edmund-Ironsi__13305
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crake, A. D. (Augustine David)
+    alias: Crake, Augustine David
+    birthdate: 1836
+    deathdate: 1890
+    gutenberg_agent_id: '4926'
+    url: http://www.gutenberg.org/2009/agents/4926
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Anglo-Saxon period, 449-1066 -- Juvenile fiction'
+- !lcc 'PZ'
+title: "Alfgar the Dane or the Second Chronicle of Aescendune\r\nA Tale of the Days\
+  \ of Edmund Ironside"
+url: http://www.gutenberg.org/ebooks/13305
